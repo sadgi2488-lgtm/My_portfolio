@@ -38,31 +38,26 @@ h2 {
     color: black;
     width: fit-content;
 }
-
 main {
     max-width: 1100px;
     margin: 2rem auto;
     padding: 2rem;
 }
-
 .about-container,
 .project-container,
 .skills-container,
 .contact-container,
 .education-container {
-
     background-color: olivedrab;
     border-radius: 10px;
     padding: 2rem;
     margin-bottom: 2rem;
     box-shadow: 0 4px 12px black;
 }
-
 .about-container {
     display: flex;
     gap: 2rem;
 }
-
 .about-container img {
     width: 35%;
     border-radius: 184px;
