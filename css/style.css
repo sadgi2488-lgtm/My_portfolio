@@ -49,7 +49,7 @@ main {
 .project-container,
 .skills-container,
 .contact-container,
-.education-container {
+{
 
     background-color: olivedrab;
     border-radius: 10px;
@@ -200,14 +200,6 @@ main {
 .Find-me-on h2 {
     margin-left: auto;
     margin-right: auto;
-}
-
-.education-container {
-    overflow-x: auto;
-}
-
-.education-container table {
-    min-width: 550px;
 }
 
 @media (max-width:767px) {
